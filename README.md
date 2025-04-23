@@ -5,6 +5,6 @@ Goodcabs, a cab service company established two years ago, has gained a strong f
 
 As part of this initiative, the Goodcabs management team aims to assess the company’s performance across key metrics, including trip volume, passenger satisfaction, repeat passenger rate, trip distribution, and the balance between new and repeat passengers. 
 
-Poer BI Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZTEzMzc0YWYtOTJmNS00MTE0LWFkMTAtMzdkODcxOWZhNjYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Poer BI Dashboard:https://app.powerbi.com/view?r=eyJrIjoiZTEzMzc0YWYtOTJmNS00MTE0LWFkMTAtMzdkODcxOWZhNjYyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=2b7315747469e7dad05d
 
 Linkedin post:https://www.linkedin.com/posts/sankardossk_dataanalytics-powerbi-dashboarddesign-activity-7273957994080444416-u3zd?utm_source=share&utm_medium=member_desktop
